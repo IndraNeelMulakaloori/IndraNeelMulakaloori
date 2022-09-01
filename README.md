@@ -1,6 +1,6 @@
 ### Konnichiwa minna 👋
 Hi there Fellow developers. My name is **IndraNeel** and  I hail from **India**.<br>
-**CS'23 Undergrad**<br>
+**CS'23 Undergrad**<br><br>
 [![IndraNeels' GitHub stats](https://github-readme-stats.vercel.app/api?username=IndraNeelMulakaloori)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IndraNeelMulakaloori/IndraNeelMulakaloori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
