@@ -1,7 +1,7 @@
 ## Konnichwa minna 👋, My name is IndraNeel
 
 Currently, I'm an Undergrad student majoring in CS.
-- I'm alacrious about learning cutting-edge technologies like **BlockChain**, **Digital Marketing**, and **Web3**.
+- I'm alacrious about learning cutting-edge technologies like **Machine learning**, **NLP** etc.
 - Anime fanatic 🥷🏻(**OTAKU**) and an amateur in photography 📸.
 
 ### Skills: 
