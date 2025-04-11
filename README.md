@@ -1,6 +1,6 @@
 ## Konnichwa minna 👋, My name is IndraNeel
 
-Currently, I'm an Undergrad student majoring in CS.
+Currently, I'm a Robotics Grad Student @ UMD.
 - I'm alacrious about learning cutting-edge technologies like **Machine learning**, **NLP** etc.
 - Anime fanatic 🥷🏻(**OTAKU**) and an amateur in photography 📸.
 
