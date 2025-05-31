@@ -1,7 +1,7 @@
 ## Konnichwa minna 👋, My name is IndraNeel
 
 Currently, I'm a Robotics Grad Student @ UMD.
-- I'm alacrious about learning cutting-edge technologies like **Machine learning**, **NLP** etc.
+- I'm alacrious about learning cutting-edge technologies like **Deep learning**, **Computer Vision** etc.
 - Anime fanatic 🥷🏻(**OTAKU**) and an amateur in photography 📸.
 
 ### Skills: 
@@ -12,19 +12,13 @@ Currently, I'm a Robotics Grad Student @ UMD.
 <td>JS</td>
 </tr>
 <tr>
-<td> HTML </td>
-<td>  CSS  </td>
-<td> REACT </td>
+<td>ROS2</td>
+<td>GAZEBO</td>
+<td>OPENCV</td>
 </tr>
-<tr>
-<td> EXPRESS </td>
-<td> MONGODB</td>
-<td> NODEJS </td>
-</tr>
+
 </table>
 
-
-- 🔭 I’m currently working on <strong> MERN </strong> stack projects 
 - 📫 How to reach me: neel16112001@gmail.com 
 
 
